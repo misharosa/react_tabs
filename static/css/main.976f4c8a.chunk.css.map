@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACd,WAGC,WAAY,CACZ,WAAY,CACb,SAGC,oBAAqB,CACrB,qBAAsB","file":"main.976f4c8a.chunk.css","sourcesContent":[".tab {\n  display: flex;\n}\n\n.tab__item {\n  border: none;\n  color: green;\n}\n\n.content {\n  display: inline-block;\n  background-color: aqua;\n}\n"]}
